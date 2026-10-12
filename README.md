@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Zubin Sharma</h1>
-<h3 align="center">A Machine Learning and Deep Learning Engineer from India</h3>
+<h3 align="center">An Artificial Intelligence Engineer from India</h3>
 
-- 🌱 I’m currently learning **Neural Networks & Deep Learning**
+- 🌱 I’m currently learning **Conversational AI**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Voice AI Projects**
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
